@@ -1,2 +1,2 @@
 # Hollywood-Studios
-Querying 5 request from Assigment #4 PDF
+Querying 5 requests from Assigment #4 PDF
